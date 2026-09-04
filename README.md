@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ins0mniaxd/ins0mniaxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6E40C9,50:8A2BE2,100:00C9FF&text=yAJKISHKA&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn)
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://t.me/ins0mniaxd" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Технологии
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html&theme=dark" alt="Languages and Tools" />
+</p>

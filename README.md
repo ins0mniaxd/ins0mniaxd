@@ -21,13 +21,10 @@
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ins0mniaxd&show_icons=true&theme=algolia&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ins0mniaxd&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&icon_color=bb9af7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ins0mniaxd&theme=tokyonight&hide_border=false&border_radius=10&ring=bb9af7&fire=bb9af7&currStreakNum=bb9af7" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ins0mniaxd&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ins0mniaxd&layout=compact&theme=algolia&hide_border=false&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ins0mniaxd&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="60%" />
 </p>

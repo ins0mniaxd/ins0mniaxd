@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <p>
   <a href="https://t.me/ins0mniaxd" target="_blank">

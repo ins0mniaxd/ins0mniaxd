@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6E40C9,50:8A2BE2,100:00C9FF&text=ins0mniaxd&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn)
+![Header](./your-header-image-name.png)
 
 <p>
   <a href="https://t.me/ins0mniaxd" target="_blank">

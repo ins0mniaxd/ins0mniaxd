@@ -21,3 +21,4 @@
 ### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ins0mniaxd&include_all_commits=true&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=ins0mniaxd&langs_count=4&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)

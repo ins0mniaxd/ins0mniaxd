@@ -20,4 +20,4 @@
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ins0mniaxd)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=ins0mniaxd&langs_count=4&theme=blue_navy)](https://github.com/stats-organization/github-stats-extended)

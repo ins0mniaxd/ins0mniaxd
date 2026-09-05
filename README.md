@@ -20,4 +20,4 @@
 
 ### My GitHub Stats
 
-https://github-stats-extended.vercel.app/api?username=ins0mniaxd&theme=radical
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ins0mniaxd)](https://github.com/stats-organization/github-stats-extended)
